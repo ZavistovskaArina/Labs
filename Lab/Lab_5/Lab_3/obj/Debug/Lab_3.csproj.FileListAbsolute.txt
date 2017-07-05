@@ -1,0 +1,32 @@
+c:\users\arina\documents\visual studio 2015\Projects\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_3\Lab_3\bin\Debug\SortedList.dll
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_3\Lab_3\bin\Debug\SortedList.pdb
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_3\Lab_3\obj\Debug\Lab_3.csprojResolveAssemblyReference.cache
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+D:\University\ТКП\Лаби\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+D:\University\ТКП\Лаби\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+D:\University\ТКП\Лаби\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+D:\University\ТКП\Лаби\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+D:\University\ТКП\Лаби\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+D:\University\ТКП\Лаби\Lab_3\Lab_3\bin\Debug\SortedList.dll
+D:\University\ТКП\Лаби\Lab_3\Lab_3\bin\Debug\SortedList.pdb
+D:\University\ТКП\Лаби\Lab_3\Lab_3\obj\Debug\Lab_3.csprojResolveAssemblyReference.cache
+D:\University\ТКП\Лаби\Lab_4\Lab_3\bin\Debug\Lab_3.exe.config
+D:\University\ТКП\Лаби\Lab_4\Lab_3\obj\Debug\Lab_3.exe
+D:\University\ТКП\Лаби\Lab_4\Lab_3\obj\Debug\Lab_3.pdb
+D:\University\ТКП\Лаби\Lab_4\Lab_3\bin\Debug\Lab_3.exe
+D:\University\ТКП\Лаби\Lab_4\Lab_3\bin\Debug\Lab_3.pdb
+D:\University\ТКП\Лаби\Lab_4\Lab_3\bin\Debug\SortedList.dll
+D:\University\ТКП\Лаби\Lab_4\Lab_3\bin\Debug\SortedList.pdb
+D:\University\ТКП\Лаби\Lab_4\Lab_3\obj\Debug\Lab_3.csprojResolveAssemblyReference.cache
+D:\University\ТКП\Лаби\Lab_5\Lab_3\bin\Debug\Lab_3.exe.config
+D:\University\ТКП\Лаби\Lab_5\Lab_3\obj\Debug\Lab_3.exe
+D:\University\ТКП\Лаби\Lab_5\Lab_3\obj\Debug\Lab_3.pdb
+D:\University\ТКП\Лаби\Lab_5\Lab_3\bin\Debug\Lab_3.exe
+D:\University\ТКП\Лаби\Lab_5\Lab_3\bin\Debug\Lab_3.pdb
+D:\University\ТКП\Лаби\Lab_5\Lab_3\bin\Debug\SortedList.dll
+D:\University\ТКП\Лаби\Lab_5\Lab_3\bin\Debug\SortedList.pdb
+D:\University\ТКП\Лаби\Lab_5\Lab_3\obj\Debug\Lab_3.csprojResolveAssemblyReference.cache

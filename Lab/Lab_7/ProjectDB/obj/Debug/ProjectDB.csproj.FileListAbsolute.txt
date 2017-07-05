@@ -1,0 +1,38 @@
+c:\Users\Arina\documents\visual studio 2015\Projects\Lab_6\ProjectDB\bin\Debug\ProjectDB.dll.config
+c:\Users\Arina\documents\visual studio 2015\Projects\Lab_6\ProjectDB\bin\Debug\ProjectDB.dll
+c:\Users\Arina\documents\visual studio 2015\Projects\Lab_6\ProjectDB\bin\Debug\ProjectDB.pdb
+c:\Users\Arina\documents\visual studio 2015\Projects\Lab_6\ProjectDB\bin\Debug\EntityFramework.dll
+c:\Users\Arina\documents\visual studio 2015\Projects\Lab_6\ProjectDB\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Arina\documents\visual studio 2015\Projects\Lab_6\ProjectDB\bin\Debug\EntityFramework.xml
+c:\Users\Arina\documents\visual studio 2015\Projects\Lab_6\ProjectDB\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Arina\documents\visual studio 2015\Projects\Lab_6\ProjectDB\obj\Debug\ProjectDB.csprojResolveAssemblyReference.cache
+c:\Users\Arina\documents\visual studio 2015\Projects\Lab_6\ProjectDB\obj\Debug\ProjectDB.dll
+c:\Users\Arina\documents\visual studio 2015\Projects\Lab_6\ProjectDB\obj\Debug\ProjectDB.pdb
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\Lab_6\ProjectDB\obj\Debug\ProjectDB.Migrations.InitialCreate.resources
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\Lab_6\ProjectDB\obj\Debug\ProjectDB.csproj.GenerateResource.Cache
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\Lab_6\ProjectDB\obj\Debug\ProjectDB.Migrations.AddMigration.resources
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_6\ProjectDB\obj\Debug\ProjectDB.Migrations.SampleMigration.resources
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\ProjectDB\bin\Debug\ProjectDB.dll.config
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\ProjectDB\bin\Debug\ProjectDB.dll
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\ProjectDB\bin\Debug\ProjectDB.pdb
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\ProjectDB\bin\Debug\EntityFramework.dll
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\ProjectDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\ProjectDB\bin\Debug\EntityFramework.xml
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\ProjectDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\ProjectDB\obj\Debug\ProjectDB.csprojResolveAssemblyReference.cache
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\ProjectDB\obj\Debug\ProjectDB.dll
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\ProjectDB\obj\Debug\ProjectDB.pdb
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\ProjectDB\obj\Debug\ProjectDB.Migrations.NewMigration.resources
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\ProjectDB\obj\Debug\ProjectDB.csproj.GenerateResource.Cache
+D:\University\ТКП\Лаби\Lab_7\ProjectDB\bin\Debug\ProjectDB.dll.config
+D:\University\ТКП\Лаби\Lab_7\ProjectDB\bin\Debug\ProjectDB.dll
+D:\University\ТКП\Лаби\Lab_7\ProjectDB\bin\Debug\ProjectDB.pdb
+D:\University\ТКП\Лаби\Lab_7\ProjectDB\bin\Debug\EntityFramework.dll
+D:\University\ТКП\Лаби\Lab_7\ProjectDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\University\ТКП\Лаби\Lab_7\ProjectDB\bin\Debug\EntityFramework.xml
+D:\University\ТКП\Лаби\Lab_7\ProjectDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\University\ТКП\Лаби\Lab_7\ProjectDB\obj\Debug\ProjectDB.csprojResolveAssemblyReference.cache
+D:\University\ТКП\Лаби\Lab_7\ProjectDB\obj\Debug\ProjectDB.Migrations.NewMigration.resources
+D:\University\ТКП\Лаби\Lab_7\ProjectDB\obj\Debug\ProjectDB.csproj.GenerateResource.Cache
+D:\University\ТКП\Лаби\Lab_7\ProjectDB\obj\Debug\ProjectDB.dll
+D:\University\ТКП\Лаби\Lab_7\ProjectDB\obj\Debug\ProjectDB.pdb

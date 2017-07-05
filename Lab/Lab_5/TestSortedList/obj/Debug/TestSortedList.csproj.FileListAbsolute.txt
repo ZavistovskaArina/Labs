@@ -1,0 +1,11 @@
+D:\University\ТКП\Лаби\Lab_5\TestSortedList\bin\Debug\TestSortedList.dll
+D:\University\ТКП\Лаби\Lab_5\TestSortedList\bin\Debug\TestSortedList.pdb
+D:\University\ТКП\Лаби\Lab_5\TestSortedList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\University\ТКП\Лаби\Lab_5\TestSortedList\bin\Debug\nunit.framework.dll
+D:\University\ТКП\Лаби\Lab_5\TestSortedList\bin\Debug\SortedList.dll
+D:\University\ТКП\Лаби\Lab_5\TestSortedList\bin\Debug\SortedList.pdb
+D:\University\ТКП\Лаби\Lab_5\TestSortedList\bin\Debug\nunit.framework.xml
+D:\University\ТКП\Лаби\Lab_5\TestSortedList\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\University\ТКП\Лаби\Lab_5\TestSortedList\obj\Debug\TestSortedList.csprojResolveAssemblyReference.cache
+D:\University\ТКП\Лаби\Lab_5\TestSortedList\obj\Debug\TestSortedList.dll
+D:\University\ТКП\Лаби\Lab_5\TestSortedList\obj\Debug\TestSortedList.pdb

@@ -1,0 +1,15 @@
+c:\users\arina\documents\visual studio 2015\Projects\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+c:\users\arina\documents\visual studio 2015\Projects\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+c:\users\arina\documents\visual studio 2015\Projects\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+c:\users\arina\documents\visual studio 2015\Projects\Lab_2\Lab_2\obj\Debug\Lab_2.csprojResolveAssemblyReference.cache
+c:\users\arina\documents\visual studio 2015\Projects\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+c:\users\arina\documents\visual studio 2015\Projects\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+D:\University\ТКП\Лаби\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+D:\University\ТКП\Лаби\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+D:\University\ТКП\Лаби\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+D:\University\ТКП\Лаби\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+D:\University\ТКП\Лаби\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+D:\University\ТКП\Лаби\Lab_2\Lab_2\obj\Debug\Lab_2.csprojResolveAssemblyReference.cache
+D:\Documents\Arina\Source\Repos\Labs\Lab\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+D:\Documents\Arina\Source\Repos\Labs\Lab\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+D:\Documents\Arina\Source\Repos\Labs\Lab\Lab_2\Lab_2\obj\Debug\Lab_2.pdb

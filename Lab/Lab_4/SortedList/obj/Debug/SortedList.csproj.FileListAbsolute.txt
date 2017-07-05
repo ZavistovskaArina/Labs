@@ -1,0 +1,15 @@
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_3\SortedList\bin\Debug\SortedList.dll
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_3\SortedList\bin\Debug\SortedList.pdb
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_3\SortedList\obj\Debug\SortedList.csprojResolveAssemblyReference.cache
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_3\SortedList\obj\Debug\SortedList.dll
+C:\Users\Arina\documents\visual studio 2015\Projects\Lab_3\SortedList\obj\Debug\SortedList.pdb
+D:\University\ТКП\Лаби\Lab_3\SortedList\bin\Debug\SortedList.dll
+D:\University\ТКП\Лаби\Lab_3\SortedList\bin\Debug\SortedList.pdb
+D:\University\ТКП\Лаби\Lab_3\SortedList\obj\Debug\SortedList.csprojResolveAssemblyReference.cache
+D:\University\ТКП\Лаби\Lab_3\SortedList\obj\Debug\SortedList.dll
+D:\University\ТКП\Лаби\Lab_3\SortedList\obj\Debug\SortedList.pdb
+D:\University\ТКП\Лаби\Lab_4\SortedList\bin\Debug\SortedList.dll
+D:\University\ТКП\Лаби\Lab_4\SortedList\bin\Debug\SortedList.pdb
+D:\University\ТКП\Лаби\Lab_4\SortedList\obj\Debug\SortedList.csprojResolveAssemblyReference.cache
+D:\University\ТКП\Лаби\Lab_4\SortedList\obj\Debug\SortedList.dll
+D:\University\ТКП\Лаби\Lab_4\SortedList\obj\Debug\SortedList.pdb

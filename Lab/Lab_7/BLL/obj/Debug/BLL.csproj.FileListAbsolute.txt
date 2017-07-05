@@ -1,0 +1,9 @@
+D:\University\ТКП\Лаби\Lab_7\BLL\bin\Debug\BLL.dll
+D:\University\ТКП\Лаби\Lab_7\BLL\bin\Debug\BLL.pdb
+D:\University\ТКП\Лаби\Lab_7\BLL\bin\Debug\ProjectDB.dll
+D:\University\ТКП\Лаби\Lab_7\BLL\bin\Debug\EntityFramework.dll
+D:\University\ТКП\Лаби\Lab_7\BLL\bin\Debug\ProjectDB.pdb
+D:\University\ТКП\Лаби\Lab_7\BLL\bin\Debug\EntityFramework.xml
+D:\University\ТКП\Лаби\Lab_7\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\University\ТКП\Лаби\Lab_7\BLL\obj\Debug\BLL.dll
+D:\University\ТКП\Лаби\Lab_7\BLL\obj\Debug\BLL.pdb

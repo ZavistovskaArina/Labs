@@ -1,0 +1,50 @@
+c:\users\arina\documents\visual studio 2015\Projects\Lab_6\Lab_6\bin\Debug\Lab_6.exe.config
+c:\users\arina\documents\visual studio 2015\Projects\Lab_6\Lab_6\bin\Debug\Lab_6.exe
+c:\users\arina\documents\visual studio 2015\Projects\Lab_6\Lab_6\bin\Debug\Lab_6.pdb
+c:\users\arina\documents\visual studio 2015\Projects\Lab_6\Lab_6\bin\Debug\EntityFramework.dll
+c:\users\arina\documents\visual studio 2015\Projects\Lab_6\Lab_6\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\arina\documents\visual studio 2015\Projects\Lab_6\Lab_6\bin\Debug\ProjectDB.dll
+c:\users\arina\documents\visual studio 2015\Projects\Lab_6\Lab_6\bin\Debug\ProjectDB.pdb
+c:\users\arina\documents\visual studio 2015\Projects\Lab_6\Lab_6\bin\Debug\EntityFramework.xml
+c:\users\arina\documents\visual studio 2015\Projects\Lab_6\Lab_6\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\arina\documents\visual studio 2015\Projects\Lab_6\Lab_6\obj\Debug\Lab_6.csprojResolveAssemblyReference.cache
+c:\users\arina\documents\visual studio 2015\Projects\Lab_6\Lab_6\obj\Debug\Lab_6.exe
+c:\users\arina\documents\visual studio 2015\Projects\Lab_6\Lab_6\obj\Debug\Lab_6.pdb
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\Lab_6\bin\Debug\Lab_6.exe.config
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\Lab_6\obj\Debug\Lab_6.exe
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\Lab_6\obj\Debug\Lab_6.pdb
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\Lab_6\bin\Debug\Lab_6.exe
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\Lab_6\bin\Debug\Lab_6.pdb
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\Lab_6\bin\Debug\EntityFramework.dll
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\Lab_6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\Lab_6\bin\Debug\ProjectDB.dll
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\Lab_6\bin\Debug\ProjectDB.pdb
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\Lab_6\bin\Debug\EntityFramework.xml
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\Lab_6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arina\Documents\Visual Studio 2015\Projects\1\Lab_6\Lab_6\obj\Debug\Lab_6.csprojResolveAssemblyReference.cache
+D:\University\ТКП\Лаби\Lab_6\Lab_6\bin\Debug\Lab_6.exe.config
+D:\University\ТКП\Лаби\Lab_6\Lab_6\obj\Debug\Lab_6.exe
+D:\University\ТКП\Лаби\Lab_6\Lab_6\obj\Debug\Lab_6.pdb
+D:\University\ТКП\Лаби\Lab_6\Lab_6\bin\Debug\Lab_6.exe
+D:\University\ТКП\Лаби\Lab_6\Lab_6\bin\Debug\Lab_6.pdb
+D:\University\ТКП\Лаби\Lab_6\Lab_6\bin\Debug\EntityFramework.dll
+D:\University\ТКП\Лаби\Lab_6\Lab_6\bin\Debug\EntityFramework.SqlServer.dll
+D:\University\ТКП\Лаби\Lab_6\Lab_6\bin\Debug\ProjectDB.dll
+D:\University\ТКП\Лаби\Lab_6\Lab_6\bin\Debug\ProjectDB.pdb
+D:\University\ТКП\Лаби\Lab_6\Lab_6\bin\Debug\EntityFramework.xml
+D:\University\ТКП\Лаби\Lab_6\Lab_6\bin\Debug\EntityFramework.SqlServer.xml
+D:\University\ТКП\Лаби\Lab_6\Lab_6\obj\Debug\Lab_6.csprojResolveAssemblyReference.cache
+D:\University\ТКП\Лаби\Lab_7\Lab_6\bin\Debug\Lab_6.exe.config
+D:\University\ТКП\Лаби\Lab_7\Lab_6\obj\Debug\Lab_6.exe
+D:\University\ТКП\Лаби\Lab_7\Lab_6\obj\Debug\Lab_6.pdb
+D:\University\ТКП\Лаби\Lab_7\Lab_6\bin\Debug\Lab_6.exe
+D:\University\ТКП\Лаби\Lab_7\Lab_6\bin\Debug\Lab_6.pdb
+D:\University\ТКП\Лаби\Lab_7\Lab_6\bin\Debug\BLL.dll
+D:\University\ТКП\Лаби\Lab_7\Lab_6\bin\Debug\EntityFramework.dll
+D:\University\ТКП\Лаби\Lab_7\Lab_6\bin\Debug\EntityFramework.SqlServer.dll
+D:\University\ТКП\Лаби\Lab_7\Lab_6\bin\Debug\ProjectDB.dll
+D:\University\ТКП\Лаби\Lab_7\Lab_6\bin\Debug\BLL.pdb
+D:\University\ТКП\Лаби\Lab_7\Lab_6\bin\Debug\ProjectDB.pdb
+D:\University\ТКП\Лаби\Lab_7\Lab_6\bin\Debug\EntityFramework.xml
+D:\University\ТКП\Лаби\Lab_7\Lab_6\bin\Debug\EntityFramework.SqlServer.xml
+D:\University\ТКП\Лаби\Lab_7\Lab_6\obj\Debug\Lab_6.csprojResolveAssemblyReference.cache
